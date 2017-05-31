@@ -1,3 +1,9 @@
+---
+layout: poem
+title: O Captain! My Captain!
+author: Walt Whitman
+source: Poetry Foundation
+---
 The Fountains mingle with the River
  And the Rivers with the Ocean,
 The winds of Heaven mix forever
