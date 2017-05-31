@@ -5,6 +5,9 @@ author: Percy Bysshe Shelley
 source: Poetry Foundation
 ---
 
+by {{ page.author }}
+
+
 - The Fountains mingle with the River
 - {:.indent-1}And the Rivers with the Ocean,
 - The winds of Heaven mix forever
@@ -21,6 +24,4 @@ source: Poetry Foundation
 - And the sunlight clasps the earth
 - {:.indent-1}And the moonbeams kiss the sea
 - What is all this sweet work worth
-- {:.indent-1}If thou kiss not me? 
-
-{{ page.author }}
+- {:.indent-1}If thou kiss not me?
