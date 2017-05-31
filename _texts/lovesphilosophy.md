@@ -23,3 +23,4 @@ source: Poetry Foundation
 - What is all this sweet work worth
 - {:.indent-1}If thou kiss not me? 
 
+{{ page.author }}
