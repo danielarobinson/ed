@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Changed Title
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Shelley
+tagline:             'Love's Philosophy'
+description:         'The poem Windom Earle sends Shelly, Audrey, and Donna
+url:                 'http://danielarobinson.github.io'
+baseurl:             '/Shelley'
 
 # About/contact
 author:
   name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  url:               https://twitter.com/DRobinsonMDP
+  email:             danielrobinsonmail@gmail.com
 
 # Permalinks
 
