@@ -9,7 +9,7 @@ source: Poetry Foundation
 
 - O Captain! my [Captain](https://en.wikipedia.org/wiki/Captain_America)! our fearful trip is done;[^fn1]
 - The ship has weather’d every rack, the prize we sought is won,
-- The port is near, the [bells I hear] ({{site.baseurl}}/texts/dreams/), the people all exulting,
+- The port is near, the [bells I hear]({{site.baseurl}}/texts/dreams/), the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
 - {:.indent-3}But O heart! heart! heart!
 - {:.indent-4}O the bleeding drops of red,
